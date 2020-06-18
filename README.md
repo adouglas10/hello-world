@@ -1,2 +1,4 @@
 # hello-world
-This is a training repository effort
+Hello Humans:
+
+This is a test message that I'm including int he readme file.
